@@ -1,6 +1,8 @@
 # TheNewsBay
 
-Android news app: browse articles by category, save articles, and receive topic-based push notifications. Built for COMP4521 Mobile Application Development.
+Android news app: browse articles by category, save articles, and receive topic-based push notifications.
+
+Solo project for COMP4521 Mobile Application Development.
 
 ## App flow
 

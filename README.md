@@ -25,3 +25,9 @@ The app uses **MVVM** with a **Repository** layer. The View (Activity/Fragment) 
 - Login / sign-up; per-account saved articles
 - Topic-based push notifications (Work Manager, daily periodic fetch + notify on selected topics)
 - WebView for full article reading; save articles to local DB and to external storage
+
+## App UI
+
+![Home](ref/ui-home.png)
+![Saved](ref/ui-save.png)
+![Alert setting](ref/ui-alert.png)
